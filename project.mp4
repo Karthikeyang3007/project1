@@ -1,11 +1,11 @@
+# Clone your repo
+git clone https://github.com/Karthikeyan3007/your-repo-name.git
+cd your-repo-name
 
-git clone https://github.com/Karthikeyan3007/your-repo.git
-cd your-repo
+# Copy video to repo folder
+cp /path/to/your/video.mp4 .
 
-# Copy video into the repo folder
-https://github.com/Karthikeyang3007/project1/edit/main/project.mp44 .
-
-# Add and commit the file
-git add video.mp4
-git commit -m "Add demo video"
+# Add, commit, and push
+git project.mp4
+git commit -project.mp4"
 git push origin main
